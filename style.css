@@ -38,10 +38,10 @@ button:hover{
 .Shoppinglist button{
     background-color: #256ba1;
 }
-#userpro {
+.userpro {
     margin-top: 30px;
     padding: 10px;
-    border: dashed 2px rgb(0, 0, 0) ;
+    border: dashed 2px rgb(188, 184, 184) ;
     border-radius: 10px;
 }
 .Shoppingc {
